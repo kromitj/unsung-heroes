@@ -13,6 +13,7 @@
     "express":"*",
     "body-parser":"*",
     "mongoose": "*",
+    "express-handlebars": "^3.0.0",
     "dotenv": "^1.2.0"
   },
   "repository": {
