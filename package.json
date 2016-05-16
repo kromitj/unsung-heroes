@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "engines": {
+    "node": "4.x.x"
+  },
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "mongoose": "*",
+    "dotenv": "^1.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kromitj/unsung-heroes.git"
