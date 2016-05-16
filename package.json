@@ -1,0 +1,19 @@
+{
+  "name": "hero-stories",
+  "version": "1.0.0",
+  "description": "App that lets users publish stories about amazing people they know and the comminity upvotes story they like and at the end of each week, a winner is announced and a camera crew does a video story on them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kromitj/unsung-heroes.git"
+  },
+  "author": "Mitch Kroska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kromitj/unsung-heroes/issues"
+  },
+  "homepage": "https://github.com/kromitj/unsung-heroes#readme"
+}
