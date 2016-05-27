@@ -14,8 +14,12 @@
     "body-parser":"*",
     "mongoose": "*",
     "express-handlebars": "^3.0.0",
-    "dotenv": "^1.2.0"
+    "dotenv": "^1.2.0",
+    "bcryptjs": "*"
   },
+   "env": {
+              "PYTHON": "/opt/local/bin/python2.7"
+        },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kromitj/unsung-heroes.git"
